@@ -1,7 +1,7 @@
 # stockprediction
 ## 주식 종료 가격 예측 경진대회(dacon)
 <br>
-R과 Python을 사용하여 단기 주식을 예측해보는 dacon대회가 있어서 참가해보았다<br>(최종순위는 33등, 상위 17%)<br>
+R과 Python을 사용하여 주식종가를 예측해보는 dacon대회가 있어서 참가해보았다<br>(최종순위는 33등, 상위 17%)<br>
 <br><br>
 
 [대회개요링크](https://dacon.io/competitions/official/235857/overview/description): 11.26일까지의 자료를 활용하여 KOSPI200,KOSDAQ150 총 370개 기업의 11.29 ~ 12.3일 주식종가를 예측<br>
